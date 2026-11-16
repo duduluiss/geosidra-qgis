@@ -127,7 +127,7 @@ class IbgeMalhasClient:
                 try:
                     shutil.copy2(candidate, target)
                     return target
-                except Exception:
+                except (OSError, shutil.Error):
                     return candidate
         return None
 
@@ -182,7 +182,7 @@ class IbgeMalhasClient:
                 if raw[:2] == b"\x1f\x8b":
                     raw = gzip.decompress(raw)
                 return raw
-        except Exception:
+        except (ImportError, AttributeError, RuntimeError, OSError):
             return None
         return None
 

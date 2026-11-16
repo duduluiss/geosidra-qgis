@@ -3,30 +3,39 @@ name=GeoSIDRA - Espacializador Estatístico do IBGE (SIDRA)
 qgisMinimumVersion=3.28
 qgisMaximumVersion=4.99
 supportsQt6=True
-description=Ingestão, espacialização e análise cartográfica e gráfica de 404 pesquisas oficiais do IBGE/SIDRA, CEMADEN, BACEN, PINTEC, MUNIC, SENATRAN e FINBRA/Siconfi em 21 áreas temáticas puras e múltiplos recortes territoriais (Municípios N6, Microrregiões N9, Mesorregiões N8, RMs/RIDE N7/N14, RMs+Capitais N7+N6 para IPCA/INPC/IPCA-15, Estados N3 e Grandes Regiões N2).
-about=Consulta a API REST oficial do SIDRA/IBGE e API ServicoDados (Pesquisas 10115 CEMADEN/IBGE Áreas de Risco, 29 BACEN ESTBAN, 1 MUNIC 2020-2024, 21 FINBRA, 22 Frota SENATRAN e 10064 PINTEC Estadual) para obter dados agregados de 404 pesquisas organizadas em 21 áreas temáticas puras com seletor dinâmico de nível territorial (N6 Municípios, N9 Microrregiões, N8 Mesorregiões, N7/N14 Regiões Metropolitanas e RIDE Grande Teresina com dissolução geométrica automática, N7+N6 RMs + Capitais Isoladas para inflação regional, N3 Estados e N2 Grandes Regiões): Riscos Geológicos, Desastres Naturais e Defesa Civil (CEMADEN / PNSB / MUNIC: 22 pesquisas), Sistema Financeiro, Bancarização e Crédito (BACEN / ESTBAN / ODS: 10 pesquisas), Habitação, Favelas, Condições de Moradia e Entorno Urbano (Censo 2022: 29 pesquisas), Saneamento Básico, Resíduos Sólidos e Gestão Urbana (PNSB / Censo / PNAD: 16 pesquisas), Terras Indígenas e Comunidades Quilombolas em Territórios Delimitados (Censo 2022: 27 pesquisas), Inovação Tecnológica, P&D e Governo Digital (PINTEC / MUNIC / ODS: 28 pesquisas), Transporte, Mobilidade Urbana e Frota de Veículos (28 pesquisas), Finanças Públicas, Receitas e Despesas Municipais (FINBRA / Siconfi: 28 pesquisas), Cultura, Patrimônio Histórico, Turismo e Esporte (27 pesquisas), Segurança Pública, Vitimização, Defesa Social e Direitos Humanos (24 pesquisas), Infância, Juventude, Educação e Saúde do Escolar — PeNSE (26 pesquisas), Meio Ambiente, Clima, Biodiversidade e Recursos Naturais (13 pesquisas), Saúde Pública — PNS (12 pesquisas), Preços, Inflação Regional e Construção Civil (11 pesquisas), Agropecuária, Lavouras, Safras e Censo Agro (22 pesquisas), Pecuária, Abate Trimestral, Couro e Aquicultura (13 pesquisas), Silvicultura e Extração Vegetal (3 pesquisas), Economia, Indústria, Comércio, Serviços e MEIs (17 pesquisas), Trabalho, Rendimento, Deslocamento e Segurança Alimentar (15 pesquisas), Demografia, População, Censos e Assistência Social (29 pesquisas) e Registro Civil (4 pesquisas). Realiza join espacial automático com a malha oficial do IBGE, gera simbologia cartográfica temática, produz gráficos e tabelas em 300 DPI e exibe alertas metodológicos, avisos modais, bloqueios temporais e identificação de períodos subanuais.
+description=Directly ingest, spatialise, map and analyse 404 official Brazilian IBGE/SIDRA statistical surveys across 21 thematic domains and multiple territorial levels in QGIS.
+about=Connects QGIS directly to Brazil's official IBGE/SIDRA REST API and ServicoDados to query, spatialise, map, and analyse 404 official statistical surveys across 21 pure thematic domains: Agriculture, Livestock & Slaughter, Forestry, Economy, Industry & Trade, Labor & Income, Demography & Census 2022, Traditional & Indigenous Territories, Urban Housing & Favelas, Basic Sanitation & Urban Drainage, Geological Hazards & Disaster Defense (CEMADEN/MUNIC), Financial System & Banking (BACEN), Technology & Innovation (PINTEC), Transportation & Fleet (SENATRAN), Public Finance (FINBRA/Siconfi), Culture & Tourism, Public Security, Education (PeNSE), Environment, Public Health (PNS), Regional Inflation (IPCA/INPC/SINAPI) and Civil Registry.
+ .
+ Supports dynamic territorial levels: Municipalities (N6), Microregions (N9), Mesoregions (N8), Metropolitan Regions (N7/N14 with automatic geometric dissolution), Metropolitan Regions + Isolated Capitals (N7+N6), States (N3), Macro-regions (N2) and National (N1). Features automatic spatial joins with official IBGE cartographic boundaries, choropleth and proportional symbol thematic styling, Lorenz curves, Gini coefficients, and high-resolution 300 DPI publication-ready charts and ABNT tables.
  .
  USAGE:
- 1. Abra o plugin pelo menu 'Vetor -> GeoSIDRA - IBGE'.
- 2. Escolha a Área Temática e a Pesquisa / Tabela SIDRA desejada (observe os avisos metodológicos e limites de anos).
- 3. Escolha o nível territorial no mapa (N6, N9, N8, N7, N14, N7+N14, N7+N6, N3 ou N2), a UF/território e os anos ou períodos válidos.
- 4. Selecione a categoria/produto (com busca instantânea por texto) e a variável mapeada.
- 5. Gere a camada no QGIS com círculos proporcionais ou mapa coroplético.
- 6. Na aba de Relatórios, Tabelas e Gráficos, exporte gráficos em 300 DPI e tabelas ABNT em CSV.
+ 1. Open the plugin from 'Vector -> GeoSIDRA - IBGE' or toolbar icon.
+ 2. Select the Thematic Area and the desired Survey / SIDRA Table.
+ 3. Choose the Territorial Level (N6, N9, N8, N7/N14, N7+N6, N3 or N2), State (UF) or Brazil, and valid years/periods.
+ 4. Select the category/product and the variable to map.
+ 5. Generate thematic layers (choropleth or proportional circles) in QGIS.
+ 6. Switch to 'Relatórios, Tabelas e Gráficos' to export 300 DPI analytical charts and CSV tables.
+ .
+ [PORTUGUÊS]:
+ Consulta a API REST oficial do SIDRA/IBGE e API ServicoDados (Pesquisas 10115 CEMADEN/IBGE Áreas de Risco, 29 BACEN ESTBAN, 1 MUNIC 2020-2024, 21 FINBRA, 22 Frota SENATRAN e 10064 PINTEC Estadual) para obter dados agregados de 404 pesquisas organizadas em 21 áreas temáticas puras com seletor dinâmico de nível territorial (N6 Municípios, N9 Microrregiões, N8 Mesorregiões, N7/N14 Regiões Metropolitanas e RIDE Grande Teresina com dissolução geométrica automática, N7+N6 RMs + Capitais Isoladas para inflação regional, N3 Estados e N2 Grandes Regiões). Realiza join espacial automático com a malha oficial do IBGE, gera simbologia cartográfica temática, curvas de Lorenz, coeficientes de Gini, produz gráficos e tabelas em 300 DPI e exibe alertas metodológicos.
  .
  Desenvolvido por Luís Eduardo Araújo de Souza.
-version=0.16.2
+version=0.16.3
 author=Luís Eduardo Araújo de Souza
 email=luisaraujodesouza.geo@gmail.com
 category=Vector
 icon=icon.png
-tags=ibge,sidra,censo-2022,terras-indigenas,povos-indigenas,indigenas,quilombolas,territorios-quilombolas,comunidades-tradicionais,demografia-indigena,demografia-quilombola,alfabetizacao-indigena,alfabetizacao-quilombola,saneamento-indigena,saneamento-quilombola,cemaden,bacen,estban,areas-de-risco,desastres-naturais,inundacoes,enchentes,alagamentos,deslizamentos,bancarizacao,credito-rural,agencias-bancarias,poupanca,inadimplencia,defesa-civil,compdec,pmrr,marco-de-sendai,pintec,inovacao,pesquisa-desenvolvimento,lei-do-bem,governo-digital,lgpd,govbr,dados-abertos,inclusao-digital,cidades-inteligentes,psti,banda-larga,5g,transporte,mobilidade-urbana,frota-veiculos,senatran,denatran,automoveis,motocicletas,caminhoes,onibus,ciclovias,acidentes-transito,seguranca-viaria,financas-publicas,finbra,siconfi,receitas,despesas,iptu,iss,itbi,fpm,transferencias,investimentos,fundos-municipais,fundeb,orcamento,cultura,patrimonio-historico,tombamento,turismo,hospedagem,esporte,instalacoes-esportivas,museus,teatros,bibliotecas,seguranca-publica,vitimizacao,homicidios,guarda-municipal,policia,deam,violencia-mulher,direitos-humanos,favelas,comunidades-urbanas,habitacao,domicilios,moradia,entorno-urbano,regularizacao-fundiaria,pense,infancia,juventude,creche,educacao-infantil,bullying,saude-escolar,escolas,meio-ambiente,clima,biodiversidade,polinizadores,ods,mata-atlantica,queimadas,qualidade-do-ar,pns,saude,pof,paic,ebia,seguranca-alimentar,gini,suas,cras,ipca,inpc,ipca-15,regiao-metropolitana,mesorregiao,microrregiao,grandes-regioes,sinapi,pim-pf,pmc,pms,pam,lspa,estoques,censo-agropecuario,ppm,abate,couro,pevs,pib,cempre,pia,pac,pas,mei,pnad,projecao,saneamento,pnsb,munic,registro-civil,divorcios,qgis,brazil
+tags=ibge,sidra,census,statistics,brazil,demographics,thematic-cartography,spatial-analysis,agriculture,livestock,economy,disaster-risk,cemaden,indigenous,housing,sanitation,transport,vector
 homepage=https://github.com/duduluiss/geosidra-qgis
 repository=https://github.com/duduluiss/geosidra-qgis
 tracker=https://github.com/duduluiss/geosidra-qgis/issues
 experimental=True
 deprecated=False
 changelog=
+ 0.16.3:
+   - Resolução completa de apontamentos do Bandit (B110 e B112): tratamento de exceções específicas em layer_builder.py, sidra_client.py e catalog.py (0 vulnerabilidades)
+   - Atualização da descrição e instruções de uso em inglês no metadata.txt para conformidade com o QGIS Plugin Hub
+   - Otimização e redução da lista de tags para palavras-chave temáticas prioritárias
  0.16.2:
    - Correção crítica do KeyError 'classification' em main_dialog.py ao consultar pesquisas sem classificação explícita (FINBRA, FROTA, PINTEC, MUNIC, CEMADEN, BACEN e tabelas SIDRA de variável pura)
    - Implementação de fallback seguro current_survey.get('classification') e normalização defensiva de todos os 404 dicionários de pesquisas no catálogo

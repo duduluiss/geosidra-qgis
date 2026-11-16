@@ -302,9 +302,14 @@ class GeoSidraLayerBuilder:
             return
         features_json = []
         for code, (geom, nivel, nome, uf_val) in dissolved_feats.items():
+            geom_dict = None
             try:
-                geom_dict = json.loads(geom.asJson(6))
-            except Exception:
+                geom_json_str = geom.asJson(6)
+                if geom_json_str:
+                    geom_dict = json.loads(geom_json_str)
+            except (TypeError, ValueError, json.JSONDecodeError, AttributeError):
+                geom_dict = None
+            if not geom_dict:
                 continue
             features_json.append({
                 "type": "Feature",

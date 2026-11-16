@@ -362,8 +362,8 @@ class SidraClient:
                 if raw[:2] == b"\x1f\x8b":
                     raw = gzip.decompress(raw)
                 return raw
-        except Exception:
-            pass
+        except (ImportError, AttributeError, RuntimeError, OSError) as qgis_net_err:
+            logger.debug("QgsBlockingNetworkRequest fallback to standard HTTP: %s", qgis_net_err)
 
         path_query = parsed.path + (f"?{parsed.query}" if parsed.query else "")
         conn = http.client.HTTPSConnection(ALLOWED_SIDRA_HOST, timeout=timeout)
@@ -407,8 +407,8 @@ class SidraClient:
                 if raw[:2] == b"\x1f\x8b":
                     raw = gzip.decompress(raw)
                 return json.loads(raw.decode("utf-8"))
-        except Exception:
-            pass
+        except (ImportError, AttributeError, RuntimeError, OSError, json.JSONDecodeError, UnicodeDecodeError) as qgis_net_err:
+            logger.debug("QgsBlockingNetworkRequest ServicoDados fallback to standard HTTP: %s", qgis_net_err)
 
         path_query = parsed.path + (f"?{parsed.query}" if parsed.query else "")
         conn = http.client.HTTPSConnection(ALLOWED_SERVICODADOS_HOST, timeout=timeout)
@@ -475,8 +475,8 @@ class SidraClient:
             try:
                 with open(cache_file, "r", encoding="utf-8") as f:
                     return json.load(f)
-            except Exception:
-                pass
+            except (json.JSONDecodeError, OSError, UnicodeDecodeError) as cache_err:
+                logger.debug("Cache read failed for %s: %s", cache_file, cache_err)
 
         ind_name = (ind_name_map or {}).get(int(indicator), f"Indicador {indicator}")
         resolved_unit = (ind_unit_map or {}).get(int(indicator), unit)
@@ -785,8 +785,8 @@ class SidraClient:
             try:
                 with open(cache_file, "r", encoding="utf-8") as f:
                     return json.load(f)
-            except Exception:
-                pass
+            except (json.JSONDecodeError, OSError, UnicodeDecodeError) as cache_err:
+                logger.debug("Cache read failed for %s: %s", cache_file, cache_err)
 
         ind_name = CEMADEN_INDICATOR_NAMES.get(int(indicator), f"Indicador {indicator}")
         resolved_unit = CEMADEN_INDICATOR_UNITS.get(int(indicator), "Pessoas")
@@ -1153,8 +1153,8 @@ class SidraClient:
             try:
                 with open(cache_file, "r", encoding="utf-8") as f:
                     return json.load(f)
-            except Exception:
-                pass
+            except (json.JSONDecodeError, OSError, UnicodeDecodeError) as cache_err:
+                logger.debug("Cache read failed for %s: %s", cache_file, cache_err)
 
         extra_cnt = len(extra_classifications or {})
         use_uf_chunks = (

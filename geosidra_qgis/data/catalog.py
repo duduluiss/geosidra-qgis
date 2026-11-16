@@ -2815,8 +2815,8 @@ def _load_json_categories(filename: str) -> List[Tuple[int, str]]:
             with open(json_path, "r", encoding="utf-8") as f:
                 cats = json.load(f)
             return [(int(c["id"]), str(c["nome"])) for c in cats]
-        except Exception:
-            pass
+        except (json.JSONDecodeError, OSError, KeyError, TypeError, ValueError):
+            return []
     return []
 
 
@@ -2876,7 +2876,7 @@ def _load_survey_levels_db() -> Dict[str, List[str]]:
             try:
                 with open(json_path, "r", encoding="utf-8") as f:
                     _SURVEY_LEVELS_CACHE = json.load(f)
-            except Exception:
+            except (json.JSONDecodeError, OSError):
                 _SURVEY_LEVELS_CACHE = {}
     return _SURVEY_LEVELS_CACHE
 
@@ -2905,7 +2905,7 @@ def _load_extra_classifications_db() -> Dict[str, Dict[str, Any]]:
             try:
                 with open(json_path, "r", encoding="utf-8") as f:
                     _EXTRA_CLF_CACHE = json.load(f)
-            except Exception:
+            except (json.JSONDecodeError, OSError):
                 _EXTRA_CLF_CACHE = {}
     return _EXTRA_CLF_CACHE
 
