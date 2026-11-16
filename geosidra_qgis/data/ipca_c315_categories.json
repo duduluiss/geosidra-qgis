@@ -1,0 +1,1418 @@
+[
+  {
+    "id": 7169,
+    "nome": "Índice geral"
+  },
+  {
+    "id": 7170,
+    "nome": "1.Alimentação e bebidas"
+  },
+  {
+    "id": 7171,
+    "nome": "11.Alimentação no domicílio"
+  },
+  {
+    "id": 7172,
+    "nome": "1101.Cereais, leguminosas e oleaginosas"
+  },
+  {
+    "id": 7173,
+    "nome": "1101002.Arroz"
+  },
+  {
+    "id": 7175,
+    "nome": "1101051.Feijão - mulatinho"
+  },
+  {
+    "id": 7176,
+    "nome": "1101052.Feijão - preto"
+  },
+  {
+    "id": 12222,
+    "nome": "1101073.Feijão - carioca (rajado)"
+  },
+  {
+    "id": 7184,
+    "nome": "1102.Farinhas, féculas e massas"
+  },
+  {
+    "id": 7185,
+    "nome": "1102001.Farinha de arroz"
+  },
+  {
+    "id": 7187,
+    "nome": "1102006.Macarrão"
+  },
+  {
+    "id": 7188,
+    "nome": "1102008.Fubá de milho"
+  },
+  {
+    "id": 7190,
+    "nome": "1102010.Flocos de milho"
+  },
+  {
+    "id": 7191,
+    "nome": "1102012.Farinha de trigo"
+  },
+  {
+    "id": 7195,
+    "nome": "1102023.Farinha de mandioca"
+  },
+  {
+    "id": 107608,
+    "nome": "1102029.Massa semipreparada"
+  },
+  {
+    "id": 7200,
+    "nome": "1103.Tubérculos, raízes e legumes"
+  },
+  {
+    "id": 7202,
+    "nome": "1103003.Batata-inglesa"
+  },
+  {
+    "id": 7204,
+    "nome": "1103005.Mandioca (aipim)"
+  },
+  {
+    "id": 7210,
+    "nome": "1103026.Pimentão"
+  },
+  {
+    "id": 7212,
+    "nome": "1103028.Tomate"
+  },
+  {
+    "id": 7215,
+    "nome": "1103043.Cebola"
+  },
+  {
+    "id": 7216,
+    "nome": "1103044.Cenoura"
+  },
+  {
+    "id": 7219,
+    "nome": "1104.Açúcares e derivados"
+  },
+  {
+    "id": 7220,
+    "nome": "1104003.Açúcar refinado"
+  },
+  {
+    "id": 7221,
+    "nome": "1104004.Açúcar cristal"
+  },
+  {
+    "id": 12224,
+    "nome": "1104018.Balas"
+  },
+  {
+    "id": 107609,
+    "nome": "1104023.Chocolate em barra e bombom"
+  },
+  {
+    "id": 7230,
+    "nome": "1104032.Sorvete"
+  },
+  {
+    "id": 107611,
+    "nome": "1104052.Chocolate e achocolatado em pó"
+  },
+  {
+    "id": 7241,
+    "nome": "1105.Hortaliças e verduras"
+  },
+  {
+    "id": 7242,
+    "nome": "1105001.Alface"
+  },
+  {
+    "id": 7244,
+    "nome": "1105004.Coentro"
+  },
+  {
+    "id": 7245,
+    "nome": "1105005.Couve"
+  },
+  {
+    "id": 7248,
+    "nome": "1105010.Repolho"
+  },
+  {
+    "id": 7249,
+    "nome": "1105012.Cheiro-verde"
+  },
+  {
+    "id": 7253,
+    "nome": "1105019.Brócolis"
+  },
+  {
+    "id": 7254,
+    "nome": "1106.Frutas"
+  },
+  {
+    "id": 7255,
+    "nome": "1106001.Banana-da-terra"
+  },
+  {
+    "id": 7256,
+    "nome": "1106003.Abacaxi"
+  },
+  {
+    "id": 7258,
+    "nome": "1106005.Banana - d'água"
+  },
+  {
+    "id": 7259,
+    "nome": "1106006.Banana - maçã"
+  },
+  {
+    "id": 7260,
+    "nome": "1106008.Banana - prata"
+  },
+  {
+    "id": 7265,
+    "nome": "1106015.Limão"
+  },
+  {
+    "id": 7266,
+    "nome": "1106017.Maçã"
+  },
+  {
+    "id": 7267,
+    "nome": "1106018.Mamão"
+  },
+  {
+    "id": 7268,
+    "nome": "1106019.Manga"
+  },
+  {
+    "id": 7269,
+    "nome": "1106020.Maracujá"
+  },
+  {
+    "id": 7270,
+    "nome": "1106021.Melancia"
+  },
+  {
+    "id": 7272,
+    "nome": "1106023.Pera"
+  },
+  {
+    "id": 7275,
+    "nome": "1106027.Tangerina"
+  },
+  {
+    "id": 7276,
+    "nome": "1106028.Uva"
+  },
+  {
+    "id": 7279,
+    "nome": "1106039.Laranja - pera"
+  },
+  {
+    "id": 7281,
+    "nome": "1106084.Goiaba"
+  },
+  {
+    "id": 7283,
+    "nome": "1107.Carnes"
+  },
+  {
+    "id": 7285,
+    "nome": "1107009.Fígado"
+  },
+  {
+    "id": 7287,
+    "nome": "1107018.Carne de porco"
+  },
+  {
+    "id": 7288,
+    "nome": "1107031.Carne de carneiro"
+  },
+  {
+    "id": 7291,
+    "nome": "1107084.Contrafilé"
+  },
+  {
+    "id": 7292,
+    "nome": "1107085.Filé-mignon"
+  },
+  {
+    "id": 7293,
+    "nome": "1107087.Chã de dentro"
+  },
+  {
+    "id": 7294,
+    "nome": "1107088.Alcatra"
+  },
+  {
+    "id": 7295,
+    "nome": "1107089.Patinho"
+  },
+  {
+    "id": 7296,
+    "nome": "1107090.Lagarto redondo"
+  },
+  {
+    "id": 12294,
+    "nome": "1107091.Lagarto comum"
+  },
+  {
+    "id": 7298,
+    "nome": "1107093.Músculo"
+  },
+  {
+    "id": 7299,
+    "nome": "1107094.Pá"
+  },
+  {
+    "id": 7300,
+    "nome": "1107095.Acém"
+  },
+  {
+    "id": 7301,
+    "nome": "1107096.Peito"
+  },
+  {
+    "id": 7302,
+    "nome": "1107099.Costela"
+  },
+  {
+    "id": 7303,
+    "nome": "1108.Pescados"
+  },
+  {
+    "id": 7306,
+    "nome": "1108004.Peixe - corvina"
+  },
+  {
+    "id": 7310,
+    "nome": "1108012.Peixe - sardinha"
+  },
+  {
+    "id": 7311,
+    "nome": "1108013.Camarão"
+  },
+  {
+    "id": 107616,
+    "nome": "1108031.Peixe - merluza"
+  },
+  {
+    "id": 7320,
+    "nome": "1108038.Peixe - pescada"
+  },
+  {
+    "id": 12300,
+    "nome": "1108049.Peixe - castanha"
+  },
+  {
+    "id": 12302,
+    "nome": "1108080.Peixe - tilápia"
+  },
+  {
+    "id": 7333,
+    "nome": "1108088.Peixe - dourada"
+  },
+  {
+    "id": 7335,
+    "nome": "1109.Carnes e peixes industrializados"
+  },
+  {
+    "id": 7336,
+    "nome": "1109002.Presunto"
+  },
+  {
+    "id": 12304,
+    "nome": "1109007.Salsicha"
+  },
+  {
+    "id": 7339,
+    "nome": "1109008.Linguiça"
+  },
+  {
+    "id": 7341,
+    "nome": "1109010.Mortadela"
+  },
+  {
+    "id": 12305,
+    "nome": "1109012.Salame"
+  },
+  {
+    "id": 12379,
+    "nome": "1109056.Carne-seca e de sol"
+  },
+  {
+    "id": 7347,
+    "nome": "1109058.Carne de porco salgada e defumada"
+  },
+  {
+    "id": 7349,
+    "nome": "1110.Aves e ovos"
+  },
+  {
+    "id": 107617,
+    "nome": "1110009.Frango inteiro"
+  },
+  {
+    "id": 107618,
+    "nome": "1110010.Frango em pedaços"
+  },
+  {
+    "id": 7355,
+    "nome": "1110044.Ovo de galinha"
+  },
+  {
+    "id": 7356,
+    "nome": "1111.Leites e derivados"
+  },
+  {
+    "id": 12393,
+    "nome": "1111004.Leite longa vida"
+  },
+  {
+    "id": 7358,
+    "nome": "1111008.Leite condensado"
+  },
+  {
+    "id": 7359,
+    "nome": "1111009.Leite em pó"
+  },
+  {
+    "id": 107619,
+    "nome": "1111011.Queijo"
+  },
+  {
+    "id": 12394,
+    "nome": "1111019.Iogurte e bebidas lácteas"
+  },
+  {
+    "id": 7367,
+    "nome": "1111031.Manteiga"
+  },
+  {
+    "id": 7372,
+    "nome": "1112.Panificados"
+  },
+  {
+    "id": 7373,
+    "nome": "1112003.Biscoito"
+  },
+  {
+    "id": 7375,
+    "nome": "1112015.Pão francês"
+  },
+  {
+    "id": 7376,
+    "nome": "1112017.Pão doce"
+  },
+  {
+    "id": 7377,
+    "nome": "1112018.Pão de forma"
+  },
+  {
+    "id": 7378,
+    "nome": "1112019.Bolo"
+  },
+  {
+    "id": 7380,
+    "nome": "1112025.Pão de queijo"
+  },
+  {
+    "id": 7384,
+    "nome": "1113.Óleos e gorduras"
+  },
+  {
+    "id": 7385,
+    "nome": "1113013.Óleo de soja"
+  },
+  {
+    "id": 7386,
+    "nome": "1113014.Azeite de oliva"
+  },
+  {
+    "id": 12395,
+    "nome": "1113040.Margarina"
+  },
+  {
+    "id": 7389,
+    "nome": "1114.Bebidas e infusões"
+  },
+  {
+    "id": 7390,
+    "nome": "1114001.Suco de frutas"
+  },
+  {
+    "id": 12396,
+    "nome": "1114004.Açaí (emulsão)"
+  },
+  {
+    "id": 7392,
+    "nome": "1114022.Café moído"
+  },
+  {
+    "id": 7393,
+    "nome": "1114023.Café solúvel"
+  },
+  {
+    "id": 107621,
+    "nome": "1114083.Refrigerante e água mineral"
+  },
+  {
+    "id": 7396,
+    "nome": "1114084.Cerveja"
+  },
+  {
+    "id": 7397,
+    "nome": "1114085.Outras bebidas alcoólicas"
+  },
+  {
+    "id": 7401,
+    "nome": "1115.Enlatados e conservas"
+  },
+  {
+    "id": 7406,
+    "nome": "1115016.Palmito em conserva"
+  },
+  {
+    "id": 7407,
+    "nome": "1115017.Pepino em conserva"
+  },
+  {
+    "id": 107624,
+    "nome": "1115039.Sardinha em conserva"
+  },
+  {
+    "id": 107625,
+    "nome": "1115050.Salsicha em conserva"
+  },
+  {
+    "id": 7411,
+    "nome": "1115056.Sopa desidratada"
+  },
+  {
+    "id": 7412,
+    "nome": "1115057.Azeitona"
+  },
+  {
+    "id": 107628,
+    "nome": "1115058.Milho-verde em conserva"
+  },
+  {
+    "id": 107630,
+    "nome": "1115075.Atum em conserva"
+  },
+  {
+    "id": 7415,
+    "nome": "1116.Sal e condimentos"
+  },
+  {
+    "id": 7416,
+    "nome": "1116001.Leite de coco"
+  },
+  {
+    "id": 109463,
+    "nome": "1116005.Atomatado"
+  },
+  {
+    "id": 7418,
+    "nome": "1116010.Alho"
+  },
+  {
+    "id": 12397,
+    "nome": "1116013.Sal"
+  },
+  {
+    "id": 7423,
+    "nome": "1116033.Maionese"
+  },
+  {
+    "id": 7424,
+    "nome": "1116041.Vinagre"
+  },
+  {
+    "id": 7425,
+    "nome": "1116048.Caldo concentrado"
+  },
+  {
+    "id": 7428,
+    "nome": "1116071.Tempero misto"
+  },
+  {
+    "id": 7432,
+    "nome": "12.Alimentação fora do domicílio"
+  },
+  {
+    "id": 7433,
+    "nome": "1201.Alimentação fora do domicílio"
+  },
+  {
+    "id": 7434,
+    "nome": "1201001.Refeição"
+  },
+  {
+    "id": 7435,
+    "nome": "1201003.Lanche"
+  },
+  {
+    "id": 107633,
+    "nome": "1201007.Refrigerante e água mineral"
+  },
+  {
+    "id": 7438,
+    "nome": "1201009.Cafezinho"
+  },
+  {
+    "id": 7440,
+    "nome": "1201048.Cerveja"
+  },
+  {
+    "id": 7443,
+    "nome": "1201051.Outras bebidas alcoólicas"
+  },
+  {
+    "id": 7444,
+    "nome": "1201061.Doces"
+  },
+  {
+    "id": 7445,
+    "nome": "2.Habitação"
+  },
+  {
+    "id": 7446,
+    "nome": "21.Encargos e manutenção"
+  },
+  {
+    "id": 7447,
+    "nome": "2101.Aluguel e taxas"
+  },
+  {
+    "id": 7448,
+    "nome": "2101001.Aluguel residencial"
+  },
+  {
+    "id": 7449,
+    "nome": "2101002.Condomínio"
+  },
+  {
+    "id": 7451,
+    "nome": "2101004.Taxa de água e esgoto"
+  },
+  {
+    "id": 7454,
+    "nome": "2103.Reparos"
+  },
+  {
+    "id": 7455,
+    "nome": "2103005.Ferragens"
+  },
+  {
+    "id": 7456,
+    "nome": "2103008.Material de eletricidade"
+  },
+  {
+    "id": 7459,
+    "nome": "2103014.Tinta"
+  },
+  {
+    "id": 12398,
+    "nome": "2103032.Revestimento de piso e parede"
+  },
+  {
+    "id": 107638,
+    "nome": "2103039.Cimento"
+  },
+  {
+    "id": 107639,
+    "nome": "2103040.Tijolo"
+  },
+  {
+    "id": 107640,
+    "nome": "2103041.Material hidráulico"
+  },
+  {
+    "id": 107641,
+    "nome": "2103042.Mão de obra"
+  },
+  {
+    "id": 107642,
+    "nome": "2103048.Areia"
+  },
+  {
+    "id": 12399,
+    "nome": "2103055.Telha"
+  },
+  {
+    "id": 7461,
+    "nome": "2104.Artigos de limpeza"
+  },
+  {
+    "id": 7464,
+    "nome": "2104005.Água sanitária"
+  },
+  {
+    "id": 7465,
+    "nome": "2104008.Detergente"
+  },
+  {
+    "id": 7466,
+    "nome": "2104009.Sabão em pó"
+  },
+  {
+    "id": 7467,
+    "nome": "2104012.Desinfetante"
+  },
+  {
+    "id": 7470,
+    "nome": "2104015.Sabão em barra"
+  },
+  {
+    "id": 7471,
+    "nome": "2104016.Esponja de limpeza"
+  },
+  {
+    "id": 7479,
+    "nome": "22.Combustíveis e energia"
+  },
+  {
+    "id": 7480,
+    "nome": "2201.Combustíveis (domésticos)"
+  },
+  {
+    "id": 7481,
+    "nome": "2201003.Carvão vegetal"
+  },
+  {
+    "id": 7482,
+    "nome": "2201004.Gás de botijão"
+  },
+  {
+    "id": 7483,
+    "nome": "2201005.Gás encanado"
+  },
+  {
+    "id": 7484,
+    "nome": "2202.Energia elétrica residencial"
+  },
+  {
+    "id": 7485,
+    "nome": "2202003.Energia elétrica residencial"
+  },
+  {
+    "id": 7486,
+    "nome": "3.Artigos de residência"
+  },
+  {
+    "id": 7487,
+    "nome": "31.Móveis e utensílios"
+  },
+  {
+    "id": 7488,
+    "nome": "3101.Mobiliário"
+  },
+  {
+    "id": 7489,
+    "nome": "3101002.Móvel para sala"
+  },
+  {
+    "id": 7490,
+    "nome": "3101003.Móvel para quarto"
+  },
+  {
+    "id": 7492,
+    "nome": "3101015.Móvel para copa e cozinha"
+  },
+  {
+    "id": 12401,
+    "nome": "3101016.Móvel infantil"
+  },
+  {
+    "id": 7493,
+    "nome": "3101017.Colchão"
+  },
+  {
+    "id": 7495,
+    "nome": "3102.Utensílios e enfeites"
+  },
+  {
+    "id": 7497,
+    "nome": "3102005.Tapete"
+  },
+  {
+    "id": 7498,
+    "nome": "3102006.Cortina"
+  },
+  {
+    "id": 12402,
+    "nome": "3102007.Utensílios de metal"
+  },
+  {
+    "id": 12403,
+    "nome": "3102009.Utensílios de vidro e louça"
+  },
+  {
+    "id": 107645,
+    "nome": "3102010.Utensílios de plástico"
+  },
+  {
+    "id": 7517,
+    "nome": "3103.Cama, mesa e banho"
+  },
+  {
+    "id": 7518,
+    "nome": "3103001.Roupa de cama"
+  },
+  {
+    "id": 7520,
+    "nome": "3103003.Roupa de banho"
+  },
+  {
+    "id": 7521,
+    "nome": "32.Aparelhos eletroeletrônicos"
+  },
+  {
+    "id": 7522,
+    "nome": "3201.Eletrodomésticos e equipamentos"
+  },
+  {
+    "id": 7523,
+    "nome": "3201001.Refrigerador"
+  },
+  {
+    "id": 7526,
+    "nome": "3201006.Máquina de lavar roupa"
+  },
+  {
+    "id": 7530,
+    "nome": "3201013.Ventilador"
+  },
+  {
+    "id": 7531,
+    "nome": "3201021.Fogão"
+  },
+  {
+    "id": 7539,
+    "nome": "3201050.Chuveiro elétrico"
+  },
+  {
+    "id": 7541,
+    "nome": "3202.Tv, som e informática"
+  },
+  {
+    "id": 7542,
+    "nome": "3202001.Televisor"
+  },
+  {
+    "id": 7543,
+    "nome": "3202003.Aparelho de som"
+  },
+  {
+    "id": 7548,
+    "nome": "33.Consertos e manutenção"
+  },
+  {
+    "id": 7549,
+    "nome": "3301.Consertos e manutenção"
+  },
+  {
+    "id": 12405,
+    "nome": "3301002.Conserto de refrigerador"
+  },
+  {
+    "id": 107648,
+    "nome": "3301006.Conserto de televisor"
+  },
+  {
+    "id": 12406,
+    "nome": "3301015.Conserto de máquina de lavar roupa"
+  },
+  {
+    "id": 7555,
+    "nome": "3301022.Reforma de estofado"
+  },
+  {
+    "id": 7558,
+    "nome": "4.Vestuário"
+  },
+  {
+    "id": 7559,
+    "nome": "41.Roupas"
+  },
+  {
+    "id": 7560,
+    "nome": "4101.Roupa masculina"
+  },
+  {
+    "id": 7561,
+    "nome": "4101002.Calça comprida masculina"
+  },
+  {
+    "id": 7563,
+    "nome": "4101005.Agasalho masculino"
+  },
+  {
+    "id": 7565,
+    "nome": "4101008.Cueca"
+  },
+  {
+    "id": 107649,
+    "nome": "4101009.Camisa/camiseta masculina"
+  },
+  {
+    "id": 7572,
+    "nome": "4102.Roupa feminina"
+  },
+  {
+    "id": 7573,
+    "nome": "4102002.Calça comprida feminina"
+  },
+  {
+    "id": 7574,
+    "nome": "4102003.Agasalho feminino"
+  },
+  {
+    "id": 7575,
+    "nome": "4102004.Saia"
+  },
+  {
+    "id": 7576,
+    "nome": "4102005.Vestido"
+  },
+  {
+    "id": 7577,
+    "nome": "4102008.Blusa"
+  },
+  {
+    "id": 7579,
+    "nome": "4102010.Lingerie"
+  },
+  {
+    "id": 7587,
+    "nome": "4103.Roupa infantil"
+  },
+  {
+    "id": 12408,
+    "nome": "4103001.Uniforme escolar"
+  },
+  {
+    "id": 7589,
+    "nome": "4103002.Calça comprida infantil"
+  },
+  {
+    "id": 7590,
+    "nome": "4103005.Agasalho infantil"
+  },
+  {
+    "id": 7591,
+    "nome": "4103007.Vestido infantil"
+  },
+  {
+    "id": 107650,
+    "nome": "4103011.Camisa/camiseta infantil"
+  },
+  {
+    "id": 12409,
+    "nome": "4103031.Conjunto infantil"
+  },
+  {
+    "id": 7604,
+    "nome": "42.Calçados e acessórios"
+  },
+  {
+    "id": 7605,
+    "nome": "4201.Calçados e acessórios"
+  },
+  {
+    "id": 7606,
+    "nome": "4201002.Sapato masculino"
+  },
+  {
+    "id": 7607,
+    "nome": "4201003.Sapato feminino"
+  },
+  {
+    "id": 7608,
+    "nome": "4201004.Sapato infantil"
+  },
+  {
+    "id": 107652,
+    "nome": "4201015.Bolsa"
+  },
+  {
+    "id": 7614,
+    "nome": "4201063.Tênis"
+  },
+  {
+    "id": 7615,
+    "nome": "43.Joias e bijuterias"
+  },
+  {
+    "id": 7616,
+    "nome": "4301.Joias e bijuterias"
+  },
+  {
+    "id": 7617,
+    "nome": "4301001.Bijuteria"
+  },
+  {
+    "id": 7618,
+    "nome": "4301002.Joia"
+  },
+  {
+    "id": 7619,
+    "nome": "4301004.Relógio de pulso"
+  },
+  {
+    "id": 7620,
+    "nome": "44.Tecidos e armarinho"
+  },
+  {
+    "id": 7621,
+    "nome": "4401.Tecidos e armarinho"
+  },
+  {
+    "id": 7622,
+    "nome": "4401001.Tecido"
+  },
+  {
+    "id": 7623,
+    "nome": "4401002.Artigos de armarinho"
+  },
+  {
+    "id": 7625,
+    "nome": "5.Transportes"
+  },
+  {
+    "id": 7626,
+    "nome": "51.Transportes"
+  },
+  {
+    "id": 7627,
+    "nome": "5101.Transporte público"
+  },
+  {
+    "id": 7628,
+    "nome": "5101001.Ônibus urbano"
+  },
+  {
+    "id": 7629,
+    "nome": "5101002.Táxi"
+  },
+  {
+    "id": 7630,
+    "nome": "5101004.Trem"
+  },
+  {
+    "id": 7631,
+    "nome": "5101006.Ônibus intermunicipal"
+  },
+  {
+    "id": 7632,
+    "nome": "5101007.Ônibus interestadual"
+  },
+  {
+    "id": 7634,
+    "nome": "5101010.Passagem aérea"
+  },
+  {
+    "id": 7635,
+    "nome": "5101011.Metrô"
+  },
+  {
+    "id": 7639,
+    "nome": "5101026.Transporte escolar"
+  },
+  {
+    "id": 7640,
+    "nome": "5102.Veículo próprio"
+  },
+  {
+    "id": 7641,
+    "nome": "5102001.Automóvel novo"
+  },
+  {
+    "id": 7642,
+    "nome": "5102004.Emplacamento e licença"
+  },
+  {
+    "id": 7643,
+    "nome": "5102005.Seguro voluntário de veículo"
+  },
+  {
+    "id": 107653,
+    "nome": "5102006.Multa"
+  },
+  {
+    "id": 7644,
+    "nome": "5102007.Óleo lubrificante"
+  },
+  {
+    "id": 7645,
+    "nome": "5102009.Acessórios e peças"
+  },
+  {
+    "id": 12411,
+    "nome": "5102010.Pneu"
+  },
+  {
+    "id": 7647,
+    "nome": "5102011.Conserto de automóvel"
+  },
+  {
+    "id": 7649,
+    "nome": "5102015.Pedágio"
+  },
+  {
+    "id": 107654,
+    "nome": "5102020.Automóvel usado"
+  },
+  {
+    "id": 7653,
+    "nome": "5102037.Pintura de veículo"
+  },
+  {
+    "id": 7654,
+    "nome": "5102053.Motocicleta"
+  },
+  {
+    "id": 7656,
+    "nome": "5104.Combustíveis (veículos)"
+  },
+  {
+    "id": 7657,
+    "nome": "5104001.Gasolina"
+  },
+  {
+    "id": 7658,
+    "nome": "5104002.Etanol"
+  },
+  {
+    "id": 7659,
+    "nome": "5104003.Óleo diesel"
+  },
+  {
+    "id": 107657,
+    "nome": "5104005.Gás veicular"
+  },
+  {
+    "id": 7660,
+    "nome": "6.Saúde e cuidados pessoais"
+  },
+  {
+    "id": 7661,
+    "nome": "61.Produtos farmacêuticos e óticos"
+  },
+  {
+    "id": 7662,
+    "nome": "6101.Produtos farmacêuticos"
+  },
+  {
+    "id": 7663,
+    "nome": "6101001.Anti-infeccioso e antibiótico"
+  },
+  {
+    "id": 7664,
+    "nome": "6101002.Analgésico e antitérmico"
+  },
+  {
+    "id": 7665,
+    "nome": "6101003.Anti-inflamatório e antirreumático"
+  },
+  {
+    "id": 7666,
+    "nome": "6101004.Antigripal e antitussígeno"
+  },
+  {
+    "id": 12412,
+    "nome": "6101006.Dermatológico"
+  },
+  {
+    "id": 7669,
+    "nome": "6101007.Antialérgico e broncodilatador"
+  },
+  {
+    "id": 7670,
+    "nome": "6101009.Gastroprotetor"
+  },
+  {
+    "id": 7671,
+    "nome": "6101010.Vitamina e fortificante"
+  },
+  {
+    "id": 7673,
+    "nome": "6101013.Psicotrópico e anorexígeno"
+  },
+  {
+    "id": 7674,
+    "nome": "6101014.Hipotensor e hipocolesterolêmico"
+  },
+  {
+    "id": 107659,
+    "nome": "6101051.Oftalmológico"
+  },
+  {
+    "id": 109464,
+    "nome": "6102.Produtos óticos"
+  },
+  {
+    "id": 7683,
+    "nome": "62.Serviços de saúde"
+  },
+  {
+    "id": 7684,
+    "nome": "6201.Serviços médicos e dentários"
+  },
+  {
+    "id": 7685,
+    "nome": "6201002.Médico"
+  },
+  {
+    "id": 7686,
+    "nome": "6201003.Dentista"
+  },
+  {
+    "id": 12414,
+    "nome": "6201005.Aparelho ortodôntico"
+  },
+  {
+    "id": 7690,
+    "nome": "6202.Serviços laboratoriais e hospitalares"
+  },
+  {
+    "id": 7691,
+    "nome": "6202003.Exame de laboratório"
+  },
+  {
+    "id": 7692,
+    "nome": "6202004.Hospitalização e cirurgia"
+  },
+  {
+    "id": 12416,
+    "nome": "6202006.Exame de imagem"
+  },
+  {
+    "id": 7695,
+    "nome": "6203.Plano de saúde"
+  },
+  {
+    "id": 7696,
+    "nome": "6203001.Plano de saúde"
+  },
+  {
+    "id": 7697,
+    "nome": "63.Cuidados pessoais"
+  },
+  {
+    "id": 7698,
+    "nome": "6301.Higiene pessoal"
+  },
+  {
+    "id": 7699,
+    "nome": "6301001.Produto para cabelo"
+  },
+  {
+    "id": 12420,
+    "nome": "6301002.Fralda descartável"
+  },
+  {
+    "id": 101642,
+    "nome": "6301004.Produto para barba"
+  },
+  {
+    "id": 101644,
+    "nome": "6301006.Produto para pele"
+  },
+  {
+    "id": 107661,
+    "nome": "6301007.Produto para higiene bucal"
+  },
+  {
+    "id": 7703,
+    "nome": "6301010.Produto para unha"
+  },
+  {
+    "id": 7704,
+    "nome": "6301011.Perfume"
+  },
+  {
+    "id": 7707,
+    "nome": "6301014.Desodorante"
+  },
+  {
+    "id": 7708,
+    "nome": "6301015.Absorvente higiênico"
+  },
+  {
+    "id": 7709,
+    "nome": "6301016.Sabonete"
+  },
+  {
+    "id": 7710,
+    "nome": "6301017.Papel higiênico"
+  },
+  {
+    "id": 7711,
+    "nome": "6301020.Artigos de maquiagem"
+  },
+  {
+    "id": 7712,
+    "nome": "7.Despesas pessoais"
+  },
+  {
+    "id": 7713,
+    "nome": "71.Serviços pessoais"
+  },
+  {
+    "id": 7714,
+    "nome": "7101.Serviços pessoais"
+  },
+  {
+    "id": 7715,
+    "nome": "7101001.Costureira"
+  },
+  {
+    "id": 12421,
+    "nome": "7101005.Manicure"
+  },
+  {
+    "id": 7720,
+    "nome": "7101010.Empregado doméstico"
+  },
+  {
+    "id": 7721,
+    "nome": "7101014.Depilação"
+  },
+  {
+    "id": 7724,
+    "nome": "7101036.Despachante"
+  },
+  {
+    "id": 7727,
+    "nome": "7101076.Serviço bancário"
+  },
+  {
+    "id": 7730,
+    "nome": "7201.Recreação"
+  },
+  {
+    "id": 7735,
+    "nome": "7201010.Instrumento musical"
+  },
+  {
+    "id": 7736,
+    "nome": "7201019.Bicicleta"
+  },
+  {
+    "id": 107666,
+    "nome": "7201020.Alimento para animais"
+  },
+  {
+    "id": 7738,
+    "nome": "7201023.Brinquedo"
+  },
+  {
+    "id": 107668,
+    "nome": "7201063.Jogos de azar"
+  },
+  {
+    "id": 7758,
+    "nome": "7202.Fumo"
+  },
+  {
+    "id": 7759,
+    "nome": "7202041.Cigarro"
+  },
+  {
+    "id": 7766,
+    "nome": "8.Educação"
+  },
+  {
+    "id": 7767,
+    "nome": "81.Cursos, leitura e papelaria"
+  },
+  {
+    "id": 12427,
+    "nome": "8101.Cursos regulares"
+  },
+  {
+    "id": 7769,
+    "nome": "8101001.Creche"
+  },
+  {
+    "id": 107671,
+    "nome": "8101003.Ensino fundamental"
+  },
+  {
+    "id": 107672,
+    "nome": "8101004.Ensino médio"
+  },
+  {
+    "id": 107673,
+    "nome": "8101005.Ensino superior"
+  },
+  {
+    "id": 107674,
+    "nome": "8101006.Pós-graduação"
+  },
+  {
+    "id": 7777,
+    "nome": "8102.Leitura"
+  },
+  {
+    "id": 7778,
+    "nome": "8102001.Jornal diário"
+  },
+  {
+    "id": 107676,
+    "nome": "8102004.Revista"
+  },
+  {
+    "id": 7782,
+    "nome": "8103.Papelaria"
+  },
+  {
+    "id": 7783,
+    "nome": "8103001.Caderno"
+  },
+  {
+    "id": 7785,
+    "nome": "8103014.Artigos de papelaria"
+  },
+  {
+    "id": 107678,
+    "nome": "8104.Cursos diversos"
+  },
+  {
+    "id": 107679,
+    "nome": "8104001.Curso preparatório"
+  },
+  {
+    "id": 107681,
+    "nome": "8104003.Curso de idioma"
+  },
+  {
+    "id": 12428,
+    "nome": "8104006.Atividades físicas"
+  },
+  {
+    "id": 7786,
+    "nome": "9.Comunicação"
+  },
+  {
+    "id": 7787,
+    "nome": "91.Comunicação"
+  },
+  {
+    "id": 7788,
+    "nome": "9101.Comunicação"
+  },
+  {
+    "id": 107688,
+    "nome": "9101018.Acesso à internet"
+  },
+  {
+    "id": 7794,
+    "nome": "9101019.Aparelho telefônico"
+  }
+]

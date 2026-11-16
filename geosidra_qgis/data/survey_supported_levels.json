@@ -1,0 +1,1958 @@
+{
+  "PAM": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PAM_MILHO": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PAM_FEIJAO": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PAM_BATATA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PAM_AMENDOIM": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CENSO_AGRO_TIPOLOGIA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CENSO_AGRO_TERRAS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PPM_REBANHO": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PPM_PRODUTO": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PPM_AQUICULTURA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PPM_VACAS_ORDENHADAS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PPM_OVINOS_TOSQUIADOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PEVS_EXTRACAO": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PEVS_SILVICULTURA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PEVS_AREA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PIB_MUN": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "PIB_GINI_UF": [
+    "N3",
+    "N2"
+  ],
+  "CEMPRE_TOTAIS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CEMPRE_CNAE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PIA_PRODUTO": [
+    "N1"
+  ],
+  "PIA_EMPRESA_UF": [
+    "N3"
+  ],
+  "POP_ESTIMADA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_POP_DENS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_CRESCIMENTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_URB_RURAL": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ALFABETIZACAO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ESGOTAMENTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_AGUA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_LIXO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "LSPA_SAFRA_UF": [
+    "N3",
+    "N2"
+  ],
+  "CAGRO_VALOR_PROD": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_IRRIGACAO": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_PESSOAL": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_AGROTOXICOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_TRATORES": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_ENERGIA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "ABATE_BOVINOS_UF": [
+    "N3"
+  ],
+  "ABATE_SUINOS_UF": [
+    "N3"
+  ],
+  "ABATE_FRANGOS_UF": [
+    "N3"
+  ],
+  "LEITE_TRIMESTRAL_UF": [
+    "N3"
+  ],
+  "OVOS_TRIMESTRAL_UF": [
+    "N3"
+  ],
+  "PAC_COMERCIO_UF": [
+    "N3"
+  ],
+  "PAS_SERVICOS_UF": [
+    "N3"
+  ],
+  "FASFIL_ONG_UF": [
+    "N3",
+    "N2"
+  ],
+  "MEI_EMPREGO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MEI_DINAMICA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MEI_CNAE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_RENDA_PC": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_TRAB_CNAE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_FORCA_TRAB": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_DESLOCAMENTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNAD_DESOCUPACAO_UF": [
+    "N6",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "PNAD_RENDIMENTO_UF": [
+    "N6",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "CENSO22_ENVELHECIMENTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_COR_RACA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_INSTRUCAO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ANOS_ESTUDO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_INDIGENAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_QUILOMBOLAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_RELIGIAO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_PCD": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "AREAS_URBANIZADAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_FAVELAS_NUM": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_FAVELAS_POP": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_DOMICILIOS_OCUP": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNSB_AGUA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNSB_ESGOTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_PLANO_DIRETOR": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_ALAGAMENTOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_COMPRAS_AF": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "RC_NASCIDOS_VIVOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "RC_OBITOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "RC_CASAMENTOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "SINAPI_SEM_DESONERACAO": [
+    "N3",
+    "N2"
+  ],
+  "SINAPI_COM_DESONERACAO": [
+    "N3",
+    "N2"
+  ],
+  "PIM_PF_IND_UF": [
+    "N3",
+    "N2"
+  ],
+  "PMC_VAREJO_TOTAL_UF": [
+    "N3"
+  ],
+  "PMC_VAREJO_AMPLIADO_UF": [
+    "N3"
+  ],
+  "PMC_ATIVIDADES_UF": [
+    "N3"
+  ],
+  "PMS_SERVICOS_UF": [
+    "N3"
+  ],
+  "PMS_TURISMO_UF": [
+    "N3"
+  ],
+  "ESTOQUES_ARMAZENADOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "ESTOQUES_CAPACIDADE_SILOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_SILOS_ARMAZENS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_PRATICAS_AGRICOLAS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_CALCARIO_CORRETIVOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "CAGRO_ORGANICOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "COURO_CRU_TRIMESTRAL_UF": [
+    "N3"
+  ],
+  "COURO_CURTIDO_TRIMESTRAL_UF": [
+    "N3"
+  ],
+  "CAGRO_PECUARIA_EFETIVO": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2"
+  ],
+  "DEMOGRAFIA_EMPRESAS_UF": [
+    "N3",
+    "N2"
+  ],
+  "SERVICOS_HOSPEDAGEM": [
+    "N6",
+    "N3"
+  ],
+  "PNAD_OCUPACAO_CARTEIRA_UF": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_SUBUTILIZACAO_UF": [
+    "N6",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "CENSO22_INTERNET_DOM": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_FECUNDIDADE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_AUTISMO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_SUBREGISTRO_NASC": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PROJECAO_VIDA_MORT_UF": [
+    "N3",
+    "N2"
+  ],
+  "PROJECAO_DINAMICA_DEMOG_UF": [
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ENTORNO_URBANISTICO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNSB_REDE_ESGOTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNSB_ETES_ESGOTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNSB_RESIDUOS_SOLIDOS": [
+    "N6",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "PNSB_DRENAGEM_URBANA": [
+    "N6",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "MUNIC_MEIO_AMBIENTE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_PGIRS_RESIDUOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_SECA_ESTIAGEM": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_SEGURANCA_ALIMENTAR": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_MULHERES_ABRIGO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_SEGURANCA_PUBLICA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_PRIMEIRA_INFANCIA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_CRECHES": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "RC_DIVORCIOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "IPCA_REGIONAL": [
+    "N7_N6",
+    "N7",
+    "N6"
+  ],
+  "INPC_REGIONAL": [
+    "N7_N6",
+    "N7",
+    "N6"
+  ],
+  "IPCA15_REGIONAL": [
+    "N7_N6",
+    "N7",
+    "N6"
+  ],
+  "PAIC_CONSTRUCAO_UF": [
+    "N3",
+    "N2"
+  ],
+  "POF_DESPESAS_FAMILIARES_UF": [
+    "N3",
+    "N2"
+  ],
+  "POF_RENDIMENTO_FAMILIAR_UF": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_ANUAL_GINI_DOM_PC_UF": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_ANUAL_GINI_TRAB_UF": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_ANUAL_RENDIMENTO_DOM_PC_UF": [
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "CENSO22_GINI_UF": [
+    "N3",
+    "N2"
+  ],
+  "CENSO22_MEIO_TRANSPORTE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNAD_ANUAL_SEGURANCA_ALIMENTAR_UF": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_ANUAL_INTERNET_UF": [
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "PNAD_ANUAL_CELULAR_UF": [
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "PNAD_ANUAL_ANALFABETISMO_UF": [
+    "N3",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "PNAD_ANUAL_ESCOLARIZACAO_UF": [
+    "N3",
+    "N6",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "CENSO22_MIGRACAO_MUN": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ESTADO_CONJUGAL": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ETNIAS_LINGUAS_IND": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PNAD_ANUAL_AGUA_UF": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_ANUAL_ESGOTO_UF": [
+    "N3",
+    "N6",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "PNAD_ANUAL_LIXO_UF": [
+    "N3",
+    "N6",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "PNAD_ANUAL_ENERGIA_UF": [
+    "N3",
+    "N6",
+    "N7",
+    "N7_N14",
+    "N14",
+    "N2"
+  ],
+  "MUNIC_REDE_SUAS_CRAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_BENEFICIOS_EVENTUAIS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_CONSELHO_ASSISTENCIA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_CONSELHO_TUTELAR": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_TRANSPORTE_ONIBUS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_CULTURA_PLANO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_FUNDOS_CULTURA_SAUDE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_ESPORTE_INSTALACOES": [
+    "N6",
+    "N2"
+  ],
+  "PNS_PLANO_SAUDE": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_AUTOAVALIACAO_SAUDE": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_HIPERTENSAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_DIABETES": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_COLESTEROL_ALTO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_DEPRESSAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_ASMA": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_ATIVIDADE_FISICA_LAZER": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_TABAGISMO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_CONSUMO_ALCOOL": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_ACESSO_ATENDIMENTO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNS_INTERNACOES_SUS": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "BIO_CONHECIMENTO_UF_MUN": [
+    "N6",
+    "N3"
+  ],
+  "BIO_REGISTROS_OCORRENCIA": [
+    "N6",
+    "N3"
+  ],
+  "BIO_COBERTURA_AMOSTRAL": [
+    "N6",
+    "N3"
+  ],
+  "POLINIZADORES_VALOR_PRODUCAO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_DESASTRES_NATURAIS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_RISCO_ESCORREGAMENTOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_RISCO_INSTRUMENTOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_RISCO_MEDIDAS_PREVENTIVAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_DEFESA_CIVIL_ESTRUTURA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "ODS_POPULACAO_AFETADA_DESASTRES": [
+    "N3",
+    "N2"
+  ],
+  "IDS_MATA_ATLANTICA_DESMATAMENTO": [
+    "N3"
+  ],
+  "IDS_UNIDADES_CONSERVACAO_UF": [
+    "N3"
+  ],
+  "IDS_FOCOS_CALOR_AMAZONIA": [
+    "N3",
+    "N2"
+  ],
+  "ODS_QUALIDADE_AR_CIDADES": [
+    "N6"
+  ],
+  "ODS_MORTALIDADE_POLUICAO_AR": [
+    "N3",
+    "N2"
+  ],
+  "ODS_AGUA_POTAVEL_SEGURA": [
+    "N3",
+    "N2"
+  ],
+  "ODS_ESGOTO_TRATADO_SEGURO": [
+    "N3",
+    "N2"
+  ],
+  "ODS_POBREZA_VULNERABILIDADE_UF": [
+    "N3",
+    "N2"
+  ],
+  "CENSO22_CRECHE_PREESCOLA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_TAXA_FREQ_ESCOLAR": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_EDUC_INDIGENA_INFANTIL": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_AUXILIO_CRECHE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_COMITE_PRIMEIRA_INFANCIA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_DIREITOS_CRIANCA_ADOLESCENTE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_MEDIDAS_SOCIOEDUCATIVAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "PENSE_ESCOLA_BIBLIOTECA": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_ESCOLA_INFORMATICA": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_ESCOLA_INTERNET": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_ESCOLA_QUADRA_ESPORTES": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "ODS_INFRAESTRUTURA_ESCOLAR": [
+    "N3"
+  ],
+  "PNAD_FREQ_ESCOLAR_LIQUIDA_UF": [
+    "N3",
+    "N2"
+  ],
+  "PENSE_BULLYING_SOFRIDO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_BULLYING_PRATICADO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_VIOLENCIA_AGRESSAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_BRIGAS_AGRESSAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_SAUDE_MENTAL_SOLIDAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_SAUDE_MENTAL_INSONIA": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_TABACO_EXPERIMENTACAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_ALCOOL_EXPERIMENTACAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_DROGAS_EXPERIMENTACAO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PENSE_ATIVIDADE_FISICA_300MIN": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "FAVELAS_NUMERO_COMUNIDADES": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_POPULACAO_COR_RACA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_IDADE_MEDIANA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_ALFABETIZACAO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_ESPECIE_DOMICILIOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_DENSIDADE_DEMOGRAFICA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_ESTABELECIMENTOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_TIPO_DOMICILIO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_ABASTECIMENTO_AGUA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_ESGOTAMENTO_SANITARIO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_DESTINO_LIXO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "FAVELAS_LIGACAO_REDE_AGUA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_DOMICILIOS_ESPECIE": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_DOMICILIOS_MEDIA_MORADORES": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_PAREDES_EXTERNAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_CONDICAO_OCUPACAO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_BANHEIROS_DORMITORIOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_DENSIDADE_DORMITORIO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_MAQUINA_LAVAR": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ENTORNO_HIERARQUIA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ENTORNO_BUEIRO_ILUMINACAO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "CENSO22_ENTORNO_COLETA_LIXO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_PLANO_HABITACAO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_FUNDO_HABITACAO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_PROGRAMAS_HABITACAO": [
+    "N6",
+    "N3"
+  ],
+  "ODS_HOMICIDIOS_TAXA": [
+    "N3",
+    "N2"
+  ],
+  "ODS_HOMICIDIOS_SEXO": [
+    "N3",
+    "N2"
+  ],
+  "ODS_HOMICIDIOS_IDADE": [
+    "N3",
+    "N2"
+  ],
+  "MORTALIDADE_HOMICIDIOS_TRANSITO": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_VITIMAS_ROUBO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNAD_DOMICILIOS_FURTO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNAD_DOMICILIOS_ROUBO": [
+    "N3",
+    "N6",
+    "N2"
+  ],
+  "PNAD_SEGURANCA_DISPOSITIVOS": [
+    "N3",
+    "N2"
+  ],
+  "PNAD_SEGURANCA_TIPOS": [
+    "N3",
+    "N2"
+  ],
+  "MUNIC_SEGURANCA_ESTRUTURA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_SEGURANCA_PLANO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_SEGURANCA_CONSELHO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_SEGURANCA_FUNDO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_INSTITUICOES_SEGURANCA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_DELEGACIAS_ESPECIALIZADAS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_GUARDA_ARMAMENTO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_GUARDA_ESTRUTURA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_MULHER_CASAS_ABRIGO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_MULHER_SERVICOS_VIOLENCIA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_MULHER_CONSELHO": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_DIREITOS_HUMANOS": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_IDOSO_VIOLENCIA": [
+    "N6",
+    "N3",
+    "N2"
+  ],
+  "MUNIC_CULTURA_EQUIPAMENTOS": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_CULTURA_MIDIAS": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_CULTURA_PONTOS": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_CULTURA_APOIO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_CULTURA_GESTAO_ESTRUTURA": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_CULTURA_CONSELHO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_PATRIMONIO_CONSELHO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_PATRIMONIO_LEGISLACAO_TOMBAMENTO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_CULTURA_CONFERENCIA": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_CULTURA_PLANO_METAS": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_CULTURA_FUNDO_GESTAO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_CULTURA_ORCAMENTO_EXECUCAO": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_ESPORTE_GESTAO_ESTRUTURA": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_ESPORTE_CONSELHO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_ESPORTE_SISTEMA": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_ESPORTE_SISTEMA_NACIONAL": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_ESPORTE_REGULAMENTACAO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_ESPORTE_ACOES_INCLUSAO": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_ESPORTE_CALENDARIO_EVENTOS": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_ESPORTE_TIPOS_INSTALACOES": [
+    "N6",
+    "N3"
+  ],
+  "PSH_HOSPEDAGEM_CATEGORIAS": [
+    "N6",
+    "N3"
+  ],
+  "PSH_HOSPEDAGEM_CARACTERISTICAS": [
+    "N6",
+    "N3"
+  ],
+  "PNAD_TURISMO_VIAGENS_HOSPEDAGEM": [
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "MUNIC_CULTURA_PLANO_INSTRUMENTO": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_RECEITAS_TOTAIS": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_RECEITAS_CORRENTES": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_RECEITA_TRIBUTARIA": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_IMPOSTOS": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_TAXAS": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_CONTRIBUICOES": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_RECEITA_PATRIMONIAL": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_TRANSFERENCIAS_CORRENTES": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_RECEITAS_CAPITAL": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_OPERACOES_CREDITO": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_TRANSFERENCIAS_CAPITAL": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_DESPESAS_EMPENHADAS": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_DESPESAS_LIQUIDADAS": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_DESPESAS_PAGAS": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_DESPESAS_CORRENTES": [
+    "N6",
+    "N3"
+  ],
+  "FINBRA_DESPESAS_CAPITAL": [
+    "N6",
+    "N3"
+  ],
+  "PIB_IMPOSTOS_PRODUTOS": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "PIB_ADMINISTRACAO_PUBLICA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "PIB_PARTICIPACAO_ADM_PUBLICA": [
+    "N6",
+    "N9",
+    "N8",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "MUNIC_LEGISLACAO_TRIBUTARIA_URBANA": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_ORCAMENTO_EDUCACAO": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_CULTURA_EXECUCAO_ORCAMENTARIA": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_MEIO_AMBIENTE_RECURSOS": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_FUNDOS_MUNICIPAIS_RECURSOS": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_CONSELHO_FUNDEB_FISCALIZACAO": [
+    "N6",
+    "N1"
+  ],
+  "ODS_RECEITAS_GOVERNO_PIB": [
+    "N1"
+  ],
+  "ODS_TRIBUTOS_ORCAMENTO_DOMESTICO": [
+    "N1"
+  ],
+  "ODS_DESPESAS_PRIMARIAS_ORCAMENTO": [
+    "N1"
+  ],
+  "FROTA_TOTAL": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_AUTOMOVEIS": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_MOTOCICLETAS": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_MOTONETAS": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_CICLOMOTORES": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_CAMINHONETES": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_CAMIONETAS": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_CAMINHOES": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_CAMINHOES_TRATOR": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_ONIBUS": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_MICROONIBUS": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_REBOQUES": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_SEMIREBOQUES": [
+    "N6",
+    "N3"
+  ],
+  "FROTA_UTILITARIOS": [
+    "N6",
+    "N3"
+  ],
+  "MUNIC_SERVICOS_REGULARES_TRANSPORTE": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_ONIBUS_INTRAMUNICIPAL_REGULAMENTACAO": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_ONIBUS_ISENCAO_TARIFA": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_ONIBUS_ADAPTACAO_PCD": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_ONIBUS_INTERMUNICIPAL": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_CICLOVIAS_BICICLETARIOS": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_PLANO_TRANSPORTE_CARACTERISTICAS": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_PLANO_MUNICIPAL_TRANSPORTE": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_CONSELHO_TRANSPORTE": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_FUNDO_TRANSPORTE": [
+    "N6",
+    "N1"
+  ],
+  "MUNIC_GESTAO_TRANSPORTE_ESTRUTURA": [
+    "N6",
+    "N1"
+  ],
+  "ODS_MORTALIDADE_TRANSITO": [
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "ODS_OBITOS_ABSOLUTOS_TRANSITO": [
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "PINTEC_UF_TAXA_INOVACAO": [
+    "N3",
+    "N1"
+  ],
+  "PINTEC_UF_EMPRESAS_INOVADORAS": [
+    "N3",
+    "N1"
+  ],
+  "PINTEC_UF_DISPENDIO_INOVACAO": [
+    "N3",
+    "N1"
+  ],
+  "PINTEC_UF_DISPENDIO_PD_INTERNO": [
+    "N3",
+    "N1"
+  ],
+  "PINTEC_UF_PESSOAL_PD": [
+    "N3",
+    "N1"
+  ],
+  "PINTEC_SETOR_INOVACAO": [
+    "N1"
+  ],
+  "PINTEC_DISPENDIOS_ATIVIDADE": [
+    "N1"
+  ],
+  "PINTEC_FINANCIAMENTO_PD": [
+    "N1"
+  ],
+  "PINTEC_PD_CONTINUO_OCASIONAL": [
+    "N1"
+  ],
+  "PINTEC_QUALIFICACAO_PESQUISADORES": [
+    "N1"
+  ],
+  "PINTEC_APOIO_GOVERNAMENTAL": [
+    "N1"
+  ],
+  "PINTEC_COOPERACAO_INOVACAO": [
+    "N1"
+  ],
+  "PINTEC_ECO_INOVACAO": [
+    "N1"
+  ],
+  "PINTEC_SUSTENTABILIDADE_ENERGIA": [
+    "N1"
+  ],
+  "PSTI_SERVICOS_TI_RECEITA": [
+    "N1"
+  ],
+  "MUNIC_ESTRUTURA_TI_CPD": [
+    "N6"
+  ],
+  "MUNIC_SERVICOS_WEB_CIDADAO": [
+    "N6"
+  ],
+  "MUNIC_SERVICOS_SOCIAIS_DIGITAIS": [
+    "N6"
+  ],
+  "MUNIC_CONTA_GOVBR_AUTENTICACAO": [
+    "N6"
+  ],
+  "MUNIC_INCLUSAO_DIGITAL_WIFI": [
+    "N6"
+  ],
+  "MUNIC_TRANSPARENCIA_DADOS_ABERTOS": [
+    "N6"
+  ],
+  "MUNIC_CIDADES_INTELIGENTES_SENSORES": [
+    "N6"
+  ],
+  "MUNIC_LGPD_GOVERNANCA_DADOS": [
+    "N6"
+  ],
+  "ODS_9B1_INDUSTRIA_ALTA_TEC_UF": [
+    "N3",
+    "N1"
+  ],
+  "ODS_951_DISPENDIO_PD_PIB": [
+    "N1"
+  ],
+  "ODS_952_PESQUISADORES_MILHAO": [
+    "N1"
+  ],
+  "ODS_9C1_COBERTURA_MOVEL_4G_5G": [
+    "N1"
+  ],
+  "ODS_1761_BANDA_LARGA_FIXA": [
+    "N1"
+  ],
+  "CEMADEN_POPULACAO_RISCO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "CEMADEN_DOMICILIOS_RISCO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "CEMADEN_IDOSOS_RISCO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "BACEN_AGENCIAS_BANCARIAS": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "BACEN_OPERACOES_CREDITO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "BACEN_DEPOSITOS_POUPANCA": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "BACEN_DEPOSITOS_VISTA": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "BACEN_DEPOSITOS_PRAZO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "BACEN_OBRIGACOES_RECEBIMENTO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "ODS_8101_AGENCIAS_ATMS": [
+    "N1"
+  ],
+  "ODS_8102_BANCARIZACAO_ADULTOS": [
+    "N1"
+  ],
+  "ODS_1051_INADIMPLENCIA_CREDITO": [
+    "N1"
+  ],
+  "ODS_932_MICROEMPRESAS_CREDITO": [
+    "N1"
+  ],
+  "CENSO_AGRO_CREDITO_AGENTES": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "PNSB_AREAS_RISCO_DRENAGEM": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "PNSB_INUNDACOES_ALAGAMENTOS_URBANOS": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "PNSB_FATORES_AGRAVANTES_ENCHENTES": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "PNSB_EXTENSAO_AREAS_INUNDADAS": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "MUNIC_PMRR_INSTRUMENTOS_RISCO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "MUNIC_MONITORAMENTO_ALERTA_RISCO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "MUNIC_HABITACAO_AREAS_RISCO": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "MUNIC_DEFESA_CIVIL_RECURSOS_ESTRUTURA": [
+    "N6",
+    "N3",
+    "N1"
+  ],
+  "ODS_1152_PERDAS_ECONOMICAS_DESASTRES": [
+    "N1"
+  ],
+  "ODS_11B2_ESTRATEGIAS_LOCAIS_DESASTRES": [
+    "N3",
+    "N1"
+  ],
+  "ODS_11B1_MARCO_SENDAI_PAIS": [
+    "N1"
+  ],
+  "CENSO22_INDIGENA_LOCALIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_TERRAS_POPULACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_DEMOGRAFIA_TERRAS": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_IDADE_SEXO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_ENVELHECIMENTO_LOCALIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_TERRAS_IDADE_SEXO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_ALFABETIZACAO_LOCALIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_ALFABETIZACAO_TERRAS": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_DOMICILIOS_LOCALIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_DOMICILIOS_TERRAS": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_SANEAMENTO_AGUA": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_SANEAMENTO_ESGOTO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_INDIGENA_DESTINO_LIXO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_LOCALIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_TERRITORIOS_POPULACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_IDADE_SEXO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_ENVELHECIMENTO_LOCALIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_TERRITORIOS_IDADE_SEXO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_TERRITORIOS_DEMOGRAFIA": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_ALFABETIZACAO_POPULACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_TAXA_ALFABETIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_TERRITORIOS_ALFABETIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_TERRITORIOS_TAXA_ALFABETIZACAO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_TIPO_DOMICILIO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_ABASTECIMENTO_AGUA": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_ESGOTAMENTO_BANHEIROS": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ],
+  "CENSO22_QUILOMBOLA_DESTINO_LIXO": [
+    "N6",
+    "N3",
+    "N2",
+    "N1"
+  ]
+}
